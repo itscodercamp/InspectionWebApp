@@ -1,0 +1,8 @@
+{
+  "name": "Inspection TV",
+  "description": "Professional mobile-first vehicle inventory management form with auto-save draft functionality.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
